@@ -7,5 +7,5 @@
 
 import Foundation
 
-print(hero(bullets: 21, dragons: 2))
+print(sumStr("4", "9"))
 
