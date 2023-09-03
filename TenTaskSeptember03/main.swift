@@ -7,5 +7,5 @@
 
 import Foundation
 
-
+print(reverseSeq(n: 7))
 
