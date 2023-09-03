@@ -8,5 +8,5 @@
 import Foundation
 
 print(quarter(of: 3))
-print(quarter1(of: 3))
+print(warnTheSheep(["sheep", "sheep", "sheep", "sheep", "sheep", "wolf", "sheep", "sheep"]))
 
