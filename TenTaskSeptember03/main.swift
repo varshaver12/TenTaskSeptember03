@@ -7,5 +7,5 @@
 
 import Foundation
 
-print(sumStr("4", "9"))
+print(nthEven(1298734))
 

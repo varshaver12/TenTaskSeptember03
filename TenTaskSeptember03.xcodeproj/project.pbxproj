@@ -17,6 +17,7 @@
 		7C04C7B32AA4D7AF00377C48 /* TaskSeven.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C04C7B22AA4D7AF00377C48 /* TaskSeven.swift */; };
 		7C04C7B52AA4DB3B00377C48 /* TaskEight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C04C7B42AA4DB3B00377C48 /* TaskEight.swift */; };
 		7C04C7B72AA4DDC500377C48 /* TaskNine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C04C7B62AA4DDC500377C48 /* TaskNine.swift */; };
+		7C04C7B92AA4E03000377C48 /* TaskTen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C04C7B82AA4E03000377C48 /* TaskTen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +44,7 @@
 		7C04C7B22AA4D7AF00377C48 /* TaskSeven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskSeven.swift; sourceTree = "<group>"; };
 		7C04C7B42AA4DB3B00377C48 /* TaskEight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskEight.swift; sourceTree = "<group>"; };
 		7C04C7B62AA4DDC500377C48 /* TaskNine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskNine.swift; sourceTree = "<group>"; };
+		7C04C7B82AA4E03000377C48 /* TaskTen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskTen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				7C04C7B22AA4D7AF00377C48 /* TaskSeven.swift */,
 				7C04C7B42AA4DB3B00377C48 /* TaskEight.swift */,
 				7C04C7B62AA4DDC500377C48 /* TaskNine.swift */,
+				7C04C7B82AA4E03000377C48 /* TaskTen.swift */,
 			);
 			path = TenTaskSeptember03;
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 				7C04C7AB2AA4AB3900377C48 /* TaskThree.swift in Sources */,
 				7C04C7A92AA4946400377C48 /* TaskTwo.swift in Sources */,
 				7C04C7AF2AA4BE3500377C48 /* TaskFive.swift in Sources */,
+				7C04C7B92AA4E03000377C48 /* TaskTen.swift in Sources */,
 				7C04C7A72AA4925300377C48 /* TaskOne.swift in Sources */,
 				7C04C7B72AA4DDC500377C48 /* TaskNine.swift in Sources */,
 				7C04C7B32AA4D7AF00377C48 /* TaskSeven.swift in Sources */,
