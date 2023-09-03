@@ -7,5 +7,5 @@
 
 import Foundation
 
-print(reverseSeq(n: 7))
+print(hero(bullets: 21, dragons: 2))
 
